@@ -1,6 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Guilherme Sousa!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Guilherme Sousa!
 
 ---
+### About 👀
 
 I am a frontend developer creating amazing web applications at [Farfetch](https://www.farfetch.com/). My current focus and strongest experience lies in using Javascript, Typescript, HTML and SCSS/CSS coupled with Angular.
 
@@ -33,6 +34,13 @@ My latest interests and pursuits revolve around state management, reactive progr
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+</p>
+
+---
+
+### Socials 🌍
+<p> 
+  <a href="https://www.linkedin.com/in/guilherme-sousa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/guilhermeSousa1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
