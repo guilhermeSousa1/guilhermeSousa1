@@ -3,7 +3,7 @@
 ---
 ### About 👀
 
-I am a frontend developer creating amazing web applications at [Farfetch](https://www.farfetch.com/). My current focus and strongest experience lies in using Javascript, Typescript, HTML and SCSS/CSS coupled with Angular.
+I am a frontend developer creating amazing web applications at [Atellio](https://www.atellio.com/). My current focus and strongest experience lies in using Javascript, Typescript, HTML and SCSS/CSS coupled with Angular.
 
 My latest interests and pursuits revolve around state management, reactive programming and unit testing. I have also worked with React.js.
 
