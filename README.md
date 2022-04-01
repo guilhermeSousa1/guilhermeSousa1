@@ -3,8 +3,6 @@
 ---
 ### About 👀
 
-Open to offers for remote freelance/contract opportunities.
- 
 Fronted Developer with multiple years of proven success in architecture, design, development and testing of a broad range of complex and innovative client-side web applications. 
  
 Passionate for architecting and constructing responsive, modular and extensible pixel-perfect CSS/HTML5/JavaScript/Typescript frontend component libraries using frameworks and tools such as React, Angular and Storybook.
