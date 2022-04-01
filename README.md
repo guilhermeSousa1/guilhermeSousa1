@@ -3,7 +3,7 @@
 ---
 ### About 👀
 
-Open to offers of remote freelance/contract projects or remote-friendly permanent opportunities.
+Open to offers for remote freelance/contract opportunities.
  
 Fronted Developer with multiple years of proven success in architecture, design, development and testing of a broad range of complex and innovative client-side web applications. 
  
