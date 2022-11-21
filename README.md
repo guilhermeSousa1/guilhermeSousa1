@@ -9,7 +9,7 @@ Solid experience with agile development in startup, enterprise and remote enviro
 
 Passionate for architecting and constructing responsive, modular and extensible pixel-perfect frontend component libraries with React and Storybook.
 
-My latest interests and pursuits revolve around state management solutions, monorepos and micro frontends.
+My latest interests and pursuits revolve around state management, monorepos and micro frontends.
 
 ---
 
