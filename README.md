@@ -1,6 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Guilherme Sousa!
+### Hi there <img src="https://github.com/guilhermeSousa1/guilhermeSousa1/assets/56938763/df81006b-c043-4564-a0e2-d4ba1860802d" width="30px" height="30px">, I'm Guilherme Sousa!
 
 ---
+
 ### About 👀
 
 Frontend Developer contractor with multiple years of proven success in architecture, design, development and testing of a broad range of complex and innovative web applications.  
