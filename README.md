@@ -4,7 +4,7 @@
 
 ### About 👀
 
-Frontend Developer contractor with multiple years of proven success in architecture, design, development and testing of a broad range of complex and innovative web applications.  
+Software Engineer contractor with multiple years of proven success in architecture, design, development and testing of a broad range of complex and innovative web applications.  
 
 Solid experience with agile development in startup, enterprise and remote environments. Self-directed and highly motivated technical professional with a team-oriented attitude and excellent communication skills.
 
